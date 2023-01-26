@@ -1,4 +1,4 @@
-# NFS Prostreet ZChaos
+# NFS ProStreet ZChaos
 A chaos mod for NFS ProStreet with Twitch voting support
 
 To download the mod, select the latest release version to the right and follow the instructions.
